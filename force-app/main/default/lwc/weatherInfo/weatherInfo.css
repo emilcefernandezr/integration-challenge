@@ -1,0 +1,9 @@
+.card-container {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.weather-image-large {
+    max-width: 120px;
+}
